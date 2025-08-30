@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://multipride-evalita.github.io/sitemap.xml
