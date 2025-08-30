@@ -2,7 +2,3 @@
 	path = multipride-evalita/themes/blowfish
 	url = https://github.com/nunocoracao/blowfish.git
 	branch = main
-[submodule "multipride-evalita/multipride-evalita.github.io"]
-	path = multipride-evalita/multipride-evalita.github.io
-	url = https://github.com/multipride-evalita/multipride-evalita.github.io.git
-	branch = main

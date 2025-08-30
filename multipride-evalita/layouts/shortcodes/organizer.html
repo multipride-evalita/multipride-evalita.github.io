@@ -1,0 +1,15 @@
+<div class="organizer-card bg-white dark:bg-neutral-800 rounded-lg shadow-md hover:shadow-xl transition-all duration-300 p-4 text-center border border-neutral-200 dark:border-neutral-700">
+    <div class="mb-4">
+        <img 
+            src="{{ .Get "photo" }}" 
+            alt="{{ .Get "alt" }}" 
+            class="w-24 h-24 mx-auto rounded-full object-cover border-2 border-primary-200 dark:border-primary-700"
+        >
+    </div>
+    <h3 class="text-lg font-bold text-neutral-800 dark:text-neutral-200 mb-2">
+        {{ .Get "name" }}
+    </h3>
+    <p class="text-neutral-600 dark:text-neutral-400 text-xs leading-relaxed">
+        {{ .Get "affiliation" }}
+    </p>
+</div>
