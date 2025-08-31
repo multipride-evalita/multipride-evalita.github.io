@@ -24,13 +24,6 @@ A detailed description of data (topics, annotation scheme applied, data format, 
 
 Samples from the multilingual dataset:
 
-Lang
-User
-Biography
-Tweet
-Reclamation
-
-
 | Lang| Biography | Tweet | Recalamation |
 | -------- | ------- | -------- | ------- |
 | It | Certo le circostanze non sono favorevoli.🏳️✊🏳️‍🌈 | In quanto disabile e frocia questi sono i miei PridePrideMonths. Ma vorrei anche dire che il giorno in cui nel manifesto di un evento lgbtqiatransfemminista verrà citato anche l'antiabilismo oltre ad anti sessismo/obtfobia/razzismo/specismo offro da bere| yes|

@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/organizers/</loc>
+    <loc>https://multipride-evalita.github.io/organizers/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://multipride-evalita.github.io/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/data/</loc>
+    <loc>https://multipride-evalita.github.io/data/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/how_to_participate/</loc>
+    <loc>https://multipride-evalita.github.io/how_to_participate/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/motivation/</loc>
+    <loc>https://multipride-evalita.github.io/motivation/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/task_description/</loc>
+    <loc>https://multipride-evalita.github.io/task_description/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

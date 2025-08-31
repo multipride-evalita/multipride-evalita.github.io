@@ -27,35 +27,50 @@ Meet the dedicated team of organizers behind MultiPRIDE at EVALITA 2026.
 
 <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6 mt-8">
 {{< organizer
-name="Dr. Sarah Johnson"
+name="Lia Draetta"
 photo="/img/organizers/avatar.jpg"
-affiliation="University of Technology, Computer Science Department"
-alt="Photo of Dr. Sarah Johnson" >}}
+affiliation="University of Turin, Italy"
+alt="Photo of Lia Draetta" >}}
 {{< organizer
-name="Prof. Michael Chen"
+name="Chiara Ferrando"
 photo="/img/organizers/avatar.jpg"
-affiliation="Institute of Advanced Studies, AI Research Lab"
-alt="Photo of Prof. Michael Chen" >}}
+affiliation="University of Turin, Italy"
+alt="Photo of Chiara Ferrando" >}}
 {{< organizer
-name="Dr. Emily Rodriguez"
+name="Marco Madeddu"
 photo="/img/organizers/avatar.jpg"
-affiliation="Tech Innovation Center, Data Science Division"
-alt="Photo of Dr. Emily Rodriguez" >}}
+affiliation="University of Turin, Italy"
+alt="Photo of Marco Madeddu" >}}
 {{< organizer
-name="Alex Thompson"
+name="Mae Sosto"
 photo="/img/organizers/avatar.jpg"
-affiliation="Global Conference Solutions, Event Management"
-alt="Photo of Alex Thompson" >}}
+affiliation="Centrum Wiskunde & Informatica, Netherlands"
+alt="Photo of Mae Sosto" >}}
 {{< organizer
-name="Dr. Lisa Wang"
+name="Viviana Patti"
 photo="/img/organizers/avatar.jpg"
-affiliation="Metropolitan University, Engineering Faculty"
-alt="Photo of Dr. Lisa Wang" >}}
+affiliation="University of Turin, Italy"
+alt="Photo of Viviana Patti" >}}
 {{< organizer
-name="James Mitchell"
+name="Paolo Rosso"
 photo="/img/organizers/avatar.jpg"
-affiliation="TechCorp Industries, Research & Development"
-alt="Photo of James Mitchell" >}}
+affiliation="Universitat Politècnica de València, Spain "
+alt="Photo of Paolo Rosso" >}}
+{{< organizer
+name="Cristina Bosco"
+photo="/img/organizers/avatar.jpg"
+affiliation="University of Turin, Italy"
+alt="Photo of Cristina Bosco" >}}
+{{< organizer
+name="Jacinto Mata"
+photo="/img/organizers/avatar.jpg"
+affiliation="University of Huelva, Spain"
+alt="Photo of Jacinto Mata" >}}
+{{< organizer
+name="Estrella Gualda"
+photo="/img/organizers/avatar.jpg"
+affiliation="University of Huelva, Spain"
+alt="Photo of Estrella Gualda" >}}
 </div>
 
 <div class="w-full max-w-none">
