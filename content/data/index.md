@@ -36,7 +36,7 @@ Samples from the multilingual dataset:
 
 ### Data Release
 {{< alert >}}
-The Data has not yet been released! It will be by 17/09/2025
+The Data has not yet been released! It will be by 22/09/2025
 {{< /alert >}}
 
 The data will be released on our GitHub
