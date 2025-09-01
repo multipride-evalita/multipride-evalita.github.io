@@ -32,3 +32,13 @@ Samples from the multilingual dataset:
 | Es | I live for that energy!| Hace rato pasó una caravana de movimiento LGT…etc y algunos me vieron parado observando y me gritaron que yo también era marica. Órale, bien «respetuosas» estas personas que exigen respeto. #PrideMonth #Pride2022 #LGTBQ| no|
 | En | N/A| I use the word tranny all the time...but that's only in reference to working on my cars.  Transgendered, transvestite, and drag queen folk are too fabulous to have their descriptions abbreviated.| yes|
 | En | N/A| Actually that's what s faggot is. Fag is just something that needs to be burnt. | no|
+
+### Data Release
+{{< alert >}}
+The Data has not yet been released! It will be by 17/09/2025
+{{< /alert >}}
+
+The data will be released on our GitHub
+
+{{< github repo="multipride-evalita/MultiPRIDE-Task" showThumbnail=false >}}
+

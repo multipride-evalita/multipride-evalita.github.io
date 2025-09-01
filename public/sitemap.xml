@@ -25,12 +25,17 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://multipride-evalita.github.io/motivation/</loc>
+    <loc>https://multipride-evalita.github.io/introduction/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://multipride-evalita.github.io/task_description/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://multipride-evalita.github.io/_index_2/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
