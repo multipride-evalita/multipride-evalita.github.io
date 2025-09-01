@@ -1,5 +1,6 @@
 ---
 title: "How to Participate"
+layoutBackgroundHeaderSpace: true
 draft: false
 showDate: false
 showAuthor: false

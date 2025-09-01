@@ -1,5 +1,6 @@
 ---
 title: "Data"
+layoutBackgroundHeaderSpace: true
 draft: false
 showDate: false
 showAuthor: false

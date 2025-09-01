@@ -1,5 +1,6 @@
 ---
 title: "Organizers"
+layoutBackgroundHeaderSpace: true
 date: 2025-08-29
 draft: false
 showDate: false
