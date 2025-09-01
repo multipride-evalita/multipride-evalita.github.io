@@ -18,7 +18,6 @@ layout: "wide"
 }
 </style>
 
-### Intoduction to the task
 
 This is a binary classification task in which systems must classify whether a term related to LGBTQ+ context in a sentence is used with a reclamatory intent. 
 

@@ -61,3 +61,7 @@ The EVALITA workshop takes place
 {{< /timelineItem >}}
 
 {{< /timeline >}}
+
+### Target Audience
+
+The task is open to everyone from industry and academia. In particular, we encourage the participation of researchers, industrial teams, and students. 
