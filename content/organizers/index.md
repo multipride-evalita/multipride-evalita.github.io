@@ -22,6 +22,7 @@ layout: "wide"
 Meet the dedicated team of organizers behind MultiPRIDE at EVALITA 2026.
 {{< /lead >}}
 
+You can contact us at [multipride-evalita@gmail.com](mailto:multipride.evalita@gmail.com)
 
 <div class="w-full max-w-none">
 <h3>Our Team</h3>
