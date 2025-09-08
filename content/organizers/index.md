@@ -30,32 +30,32 @@ You can contact us at [multipride-evalita@gmail.com](mailto:multipride.evalita@g
 <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6 mt-8">
 {{< organizer
 name="Lia Draetta"
-photo="/img/organizers/avatar.jpg"
+photo="/img/organizers/lia.jpg"
 affiliation="University of Turin, Italy"
 alt="Photo of Lia Draetta" >}}
 {{< organizer
 name="Chiara Ferrando"
-photo="/img/organizers/avatar.jpg"
+photo="/img/organizers/chiara.jpeg"
 affiliation="University of Turin, Italy"
 alt="Photo of Chiara Ferrando" >}}
 {{< organizer
 name="Marco Madeddu"
-photo="/img/organizers/avatar.jpg"
+photo="/img/organizers/marco.jpg"
 affiliation="University of Turin, Italy"
 alt="Photo of Marco Madeddu" >}}
 {{< organizer
 name="Mae Sosto"
-photo="/img/organizers/avatar.jpg"
+photo="/img/organizers/mae.jpeg"
 affiliation="Centrum Wiskunde & Informatica, Netherlands"
 alt="Photo of Mae Sosto" >}}
 {{< organizer
 name="Viviana Patti"
-photo="/img/organizers/avatar.jpg"
+photo="/img/organizers/viviana.png"
 affiliation="University of Turin, Italy"
 alt="Photo of Viviana Patti" >}}
 {{< organizer
 name="Paolo Rosso"
-photo="/img/organizers/avatar.jpg"
+photo="/img/organizers/paolo.jpg"
 affiliation="Universitat Politècnica de València, Spain "
 alt="Photo of Paolo Rosso" >}}
 {{< organizer

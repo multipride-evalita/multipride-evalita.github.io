@@ -36,11 +36,11 @@ Development data available to participants.
 
 
 {{< timelineItem icon="circle-info" header="Evaluation Window" subheader="3rd - 17th November 2025" >}}
-Systems evaludated on the test set.
+Systems evaluated on the test set.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="circle-info" header="Assessment Communication" subheader="28th November 2025" >}}
-Systems evaludated on the test set.
+Systems evaluated on the test set.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="circle-info" header="Final Reports (Participants)" subheader="15th December 2025" >}}
