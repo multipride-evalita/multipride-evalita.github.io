@@ -65,7 +65,7 @@ affiliation="University of Turin, Italy"
 alt="Photo of Cristina Bosco" >}}
 {{< organizer
 name="Jacinto Mata"
-photo="/img/organizers/avatar.jpg"
+photo="/img/organizers/jacinto.jpg"
 affiliation="University of Huelva, Spain"
 alt="Photo of Jacinto Mata" >}}
 {{< organizer
