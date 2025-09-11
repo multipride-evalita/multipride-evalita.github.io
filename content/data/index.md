@@ -36,10 +36,10 @@ Samples from the multilingual dataset:
 
 ### Data Release
 {{< alert >}}
-The Data has not yet been released! It will be by 22/09/2025
+The Data has not yet been released! It will sent to people whom compiled the [form](https://docs.google.com/forms/d/1HfRHKf2SbOoNGP68YI_j-ySXO-lzopVHuKgYQ8ABSXc/) by 22/09/2025
 {{< /alert >}}
 
-The data will be released on our GitHub
+The data will be released for everyone on our GitHub after the task's end 
 
 {{< github repo="multipride-evalita/MultiPRIDE-Task" showThumbnail=false >}}
 

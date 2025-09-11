@@ -20,7 +20,7 @@ layout: "wide"
 
 ### How to take part in the MultiPRIDE Evalita 2026 Task
 {{< alert >}}
-To take part in the MultiPRIDE shared task on reclaimed slurs at EVALITA 2026 you will have to fill a form that you will find here very soon.
+To take part in the MultiPRIDE shared task on reclaimed slurs at EVALITA 2026 you have to fill [this form](https://docs.google.com/forms/d/1HfRHKf2SbOoNGP68YI_j-ySXO-lzopVHuKgYQ8ABSXc/).
 {{< /alert >}}
 
 Participants will be required to submit their runs and provide a technical report that should include a brief description of their approach, an illustration of their experiments, in particular techniques and resources used, and an analysis of the obtained results.
