@@ -66,7 +66,7 @@ alt="Photo of Paolo Rosso"
 color="#fdf2f8">}}
 {{< organizer
 name="Cristina Bosco"
-photo="/img/organizers/avatar.jpg"
+photo="/img/organizers/cristina.jpg"
 affiliation="University of Turin, Italy"
 alt="Photo of Cristina Bosco" 
 color="#fefbf3">}}
