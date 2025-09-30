@@ -21,7 +21,7 @@ layout: "wide"
 ### Samples from the Dataset
 
 The provided dataset includes short texts taken from Twitter in Italian, Spanish, or English.
-A detailed description of data (topics, annotation scheme applied, data format, etc.) can be found in the {{< icon "download" >}} [Guidelines](/pdfs/guidelines.pdf).
+A detailed description of data (topics, annotation scheme applied, data format, etc.) can be found in the [Guidelines](/pdfs/guidelines.pdf) {{< icon "download" >}}
 
 Samples from the multilingual dataset:
 

@@ -38,5 +38,5 @@ Each participating team will be provided with:
 
 Evaluation will be based on the standard metrics known in the literature –including accuracy, precision, recall and F1-score. The submissions will be ranked by F1-score –both precision, recall and F-measure. 
 
-Further details on evaluation metrics, number of accepted runs during the evaluation phase, usage of external data and, information on the baseline can be found in the {{< icon "download" >}} [Guidelines](/pdfs/guidelines.pdf).
+Further details on evaluation metrics, number of accepted runs during the evaluation phase, usage of external data and, information on the baseline can be found in the [Guidelines](/pdfs/guidelines.pdf) {{< icon "download" >}}
 

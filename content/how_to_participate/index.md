@@ -26,7 +26,7 @@ After filling the form we will send you the dataset.
 
 Participants will be required to submit their runs and provide a technical report that should include a brief description of their approach, an illustration of their experiments, in particular techniques and resources used, and an analysis of the obtained results.
 
-You can find out more about the task in the {{< icon "download" >}} [Guidelines](/pdfs/guidelines.pdf)
+You can find out more about the task in the [Guidelines](/pdfs/guidelines.pdf) {{< icon "download" >}}
 ### Timeline
 {{< timeline >}}
 
