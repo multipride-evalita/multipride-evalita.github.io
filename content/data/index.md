@@ -36,7 +36,7 @@ Samples from the multilingual dataset:
 
 ### Data Release
 {{< alert >}}
-The Data has not yet been released! It will sent to people whom compiled the [form](https://docs.google.com/forms/d/1HfRHKf2SbOoNGP68YI_j-ySXO-lzopVHuKgYQ8ABSXc/) by 22/09/2025
+The Data is available now! To gain acccess to it, fill the [form](https://docs.google.com/forms/d/1HfRHKf2SbOoNGP68YI_j-ySXO-lzopVHuKgYQ8ABSXc/)
 {{< /alert >}}
 
 The data will be released for everyone on our GitHub after the task's end 
