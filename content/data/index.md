@@ -36,7 +36,7 @@ Samples from the multilingual dataset:
 
 ### Data Release
 {{< alert >}}
-The Data is available now! To gain acccess to it, fill the [form](https://forms.gle/stegvyLf7jY8T9Y48)
+The Data is available now! To gain access to it, fill the [form](https://forms.gle/stegvyLf7jY8T9Y48)
 {{< /alert >}}
 
 The data will be released for everyone on our GitHub after the task's end 
