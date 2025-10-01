@@ -39,7 +39,7 @@ Samples from the multilingual dataset:
 The Data is available now! To gain access to it, fill the [form](https://forms.gle/stegvyLf7jY8T9Y48)
 {{< /alert >}}
 
-The data will be released for everyone on our GitHub after the task's end 
+At this stage, the password to access the data (on our GitHub) is released only to task participants after they fill the form.
 
 {{< github repo="multipride-evalita/MultiPRIDE-Task" showThumbnail=false >}}
 
