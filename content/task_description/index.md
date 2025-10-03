@@ -33,7 +33,6 @@ Although not mandatory, participants are encouraged to foster cross-linguistic a
 
 Each participating team will be provided with:
 - **Training Set**: fully labeled which can be used for training the model.
-- **Dev Set**: fully labeled which should be used for hyperparameter-tuning.
 - **Test Set**: will be published after the the assessment timeframe.
 
 Evaluation will be based on the standard metrics known in the literature –including accuracy, precision, recall and F1-score. The submissions will be ranked by F1-score –both precision, recall and F-measure. 
