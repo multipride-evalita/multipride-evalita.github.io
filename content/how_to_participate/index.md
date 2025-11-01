@@ -35,24 +35,24 @@ Development data available to participants.
 {{< /timelineItem >}}
 
 
-{{< timelineItem icon="circle-info" header="Evaluation Window" subheader="3rd - 17th November 2025" >}}
+{{< timelineItem icon="circle-info" header="Evaluation Window" subheader="27th November - 4th December 2025" >}}
 Systems evaluated on the test set.
 {{< /timelineItem >}}
 
-{{< timelineItem icon="circle-info" header="Assessment Communication" subheader="28th November 2025" >}}
-Systems evaluated on the test set.
+{{< timelineItem icon="circle-info" header="Assessment Communication" subheader="15th December 2025" >}}
+Results to participants.
 {{< /timelineItem >}}
 
-{{< timelineItem icon="circle-info" header="Final Reports (Participants)" subheader="15th December 2025" >}}
+{{< timelineItem icon="circle-info" header="Final Reports (Participants)" subheader="9th January 2026" >}}
 Participants have to submit their reports to the task organizers
 {{< /timelineItem >}}
 
 
-{{< timelineItem icon="circle-info" header="Reviews to Participants" subheader="19th Januaary 2026" >}}
+{{< timelineItem icon="circle-info" header="Reviews to Participants" subheader="7th February 2026" >}}
 Participants will receive the reviews to their reports
 {{< /timelineItem >}}
 
-{{< timelineItem icon="circle-info" header="Camera Ready" subheader="2nd February 2026" >}}
+{{< timelineItem icon="circle-info" header="Camera Ready" subheader="16th February 2026" >}}
 Camera-ready has to be submitted to the organizers
 {{< /timelineItem >}}
 
