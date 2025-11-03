@@ -27,6 +27,8 @@ After filling the form we will send you the dataset.
 Participants will be required to submit their runs and provide a technical report that should include a brief description of their approach, an illustration of their experiments, in particular techniques and resources used, and an analysis of the obtained results.
 
 You can find out more about the task in the [Guidelines](/pdfs/guidelines.pdf) {{< icon "download" >}}
+
+We also have a file with [Frequently Asked Questions](https://github.com/multipride-evalita/MultiPRIDE-Task/blob/f008d32c012286eeb7a5caed0c4357b4a18196f5/faq.pdf) {{< icon "link" >}} 
 ### Timeline
 {{< timeline >}}
 
