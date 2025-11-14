@@ -78,7 +78,7 @@ alt="Photo of Jacinto Mata"
 color="#f1f5f9">}}
 {{< organizer
 name="Estrella Gualda"
-photo="/img/organizers/avatar.jpg"
+photo="/img/organizers/estrella.jpg"
 affiliation="University of Huelva, Spain"
 alt="Photo of Estrella Gualda" 
 color="#fdf4f3">}}
