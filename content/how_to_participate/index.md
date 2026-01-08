@@ -45,7 +45,7 @@ Systems evaluated on the test set.
 Results to participants.
 {{< /timelineItem >}}
 
-{{< timelineItem icon="circle-info" header="Final Reports (Participants)" subheader="9th January 2026" >}}
+{{< timelineItem icon="circle-info" header="Final Reports (Participants)" subheader="12th January 2026" >}}
 Participants have to submit their reports to the task organizers
 {{< /timelineItem >}}
 
