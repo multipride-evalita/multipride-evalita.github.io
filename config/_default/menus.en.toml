@@ -33,6 +33,11 @@
   weight = 5
 
 [[main]]
+  name = "Rankings"
+  pageRef = "rankings"
+  weight = 5
+
+[[main]]
   name = "Organizers"
   pageRef = "organizers"
   weight = 10
